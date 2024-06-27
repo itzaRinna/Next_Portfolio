@@ -1,4 +1,4 @@
-# N_Portfolio
+# Next_Portfolio
 
 ## Tech Stack
 
