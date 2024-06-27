@@ -1,7 +1,3 @@
-Sure! Here's your updated README with the MIT license added:
-
----
-
 # Next_Portfolio
 
 ## Tech Stack
@@ -93,8 +89,6 @@ If this is the case, you can just **CTRL** + **Click** on http://localhost:3000,
 If this is not the case, make sure you didn't miss any of the steps before. If the error persists and you don't know what to do, open an issue [here](https://github.com/NizarAbiZaher/nizzy-starter/issues).
 
 ### That's it!
-
-You should now be able to edit and change whatever you'd like. If you are having trouble with specific libraries, make sure to check out the respective documentation and properly research the issue.
 
 ## License
 
