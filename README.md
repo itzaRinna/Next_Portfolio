@@ -57,6 +57,10 @@ If you don't use any of these, find the equivalent command for your package mana
 In order to verify if everything is working properly and to further customize the project to your own SaaS, you need to start a local development server. You can do so using any of the following commands:
 
 ```bash
+cd source
+```
+
+```bash
 # Using npm
 npm run dev
 
