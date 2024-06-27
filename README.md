@@ -1,3 +1,7 @@
+Sure! Here's your updated README with the MIT license added:
+
+---
+
 # Next_Portfolio
 
 ## Tech Stack
@@ -14,14 +18,13 @@ Firstly, you need to clone the repository. You can do it like this:
 ```bash
 # Using Git
 git clone https://github.com/itzaRinna/N_Portfolio.git
-
 ```
 
 Alternatively, you can also clone it using [GitHub Desktop](https://desktop.github.com/) application.
 
 ### Setup using NPM
 
-This starter kit currently uses NPM as the package manager. Follow the steps below to correctly setup the project on your machine, and ensure everything works as expected.
+This starter kit currently uses NPM as the package manager. Follow the steps below to correctly set up the project on your machine, and ensure everything works as expected.
 
 First, install the modules and dependencies:
 
@@ -33,7 +36,7 @@ When that's done, you can proceed to run the project locally.
 
 ### Setup using different package managers
 
-Follow the steps below to correctly setup the project on your machine, and ensure everything works as expected.
+Follow the steps below to correctly set up the project on your machine, and ensure everything works as expected.
 
 Since you won't use NPM, you need to remove the `package-lock.json` to prevent any possible conflicts.
 
@@ -91,4 +94,8 @@ If this is not the case, make sure you didn't miss any of the steps before. If t
 
 ### That's it!
 
-You should now be able to edit and change whatever you'd like. If you are having trouble with specific libraries, make sure to check out the respective documentation and properly research about the issue.
+You should now be able to edit and change whatever you'd like. If you are having trouble with specific libraries, make sure to check out the respective documentation and properly research the issue.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
